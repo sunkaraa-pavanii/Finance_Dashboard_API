@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="AdditionalModuleElements">
-    <content url="file://$MODULE_DIR$" />
-  </component>
+  <component name="AdditionalModule">
+    <con url="file://MODULE_DI/>
+  <component>
 </module>
